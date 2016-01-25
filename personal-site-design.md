@@ -8,7 +8,9 @@
 
 ## 2. Target Audience
 This website is primarily a compendium of sprints during Phase-0 of the EDA journey.<br>
+<br>
 It can be used by my cohort peers and coaches to view progression; or by friends and whānau who are curious to see what becomes of this midlife crisis journey of discovery!<br>
+<br>
 Finally, this can also serve as a portfolio for any potential tech company seeking a gun for hire.
 <br>
 

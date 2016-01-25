@@ -33,10 +33,12 @@ This particular sprint focuses on experiential learning, working collaboratively
 **Simple grid frameworks** will be used to maintain the theme of simplicity.<br>
 <br>
 Included considerations for improved performance are :
+
 1.  Limited images (1-2 only)
 2.  Limited type fonts (1-2) maximum
 3.  Minimal navigation options
 <br>
+
 As this website will be renovated shortly, check out the following **wireframes** :
 - [Blog (Desktop View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-blog-page-desktop.jpg)
 - [Blog (Mobile View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-blog-page-mobile.jpg)

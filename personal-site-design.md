@@ -22,7 +22,7 @@ In order to realize this, the design must be:
 <br>
 
 ## 4. Building Utopia
->*Process over product
+>*Process over product*
 
 This particular sprint focuses on experiential learning, working collaboratively & communication rather than a perfect website.<br>
 **Simple grid frameworks** will be used to maintain the theme of simplicity.<br>

@@ -37,3 +37,8 @@ Included considerations for improved performance are :<br>
 2.  Limited type fonts (1-2) maximum
 3.  Minimal navigation options
 <br>
+As this website will be renovated shortly, check out the following **wireframes** :
+- [Blog (Desktop View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-blog-page-desktop.jpg)
+- [Blog (Mobile View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-blog-page-mobile.jpg)
+- [Index (Desktop View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-index-page-desktop.jpg)
+- [Index (Mobile View)](https://github.com/joseph-code-EDA/joseph-code-EDA.github.io/blob/master/images/wireframe-index-page-mobile.jpg)

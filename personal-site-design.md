@@ -26,8 +26,12 @@ In order to realize this, the design must be:
 
 This particular sprint focuses on experiential learning, working collaboratively & communication rather than a perfect website.<br>
 **Simple grid frameworks** will be used to maintain the theme of simplicity.<br>
-Included considerations for improved performance are:
-1.Limited images (1-2 only)
-2.Limited type fonts (1-2 maximum)
-3.Minimal navigation options
+Included considerations for improved performance are:<br>
+1. Limited images (1-2 only)
+2. Limited type fonts (1-2) maximum
+3. Minimal navigation options
 <br>
+
+
+
+

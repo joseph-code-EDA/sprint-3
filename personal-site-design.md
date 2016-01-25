@@ -16,6 +16,7 @@ Finally, this can also serve as a portfolio for any potential tech company seeki
 
 ## 3. Interactive Experiences
 Simplicity will be at the core of this website.<br>
+<br>
 Aimed at a mobile device market - priority will be around touch-centric navigation.<br>
 <br>
 In order to realize this, the design must be:

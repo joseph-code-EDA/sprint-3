@@ -28,3 +28,4 @@ Included considerations for improved performance are:
 1. Limited images (1-2 only)
 2. Limited type fonts (1-2 maximum)
 3. Minimal navigation options
+

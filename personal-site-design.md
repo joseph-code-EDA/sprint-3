@@ -19,7 +19,7 @@ Simplicity will be at the core of this website.<br>
 <br>
 Aimed at a mobile device market - priority will be around touch-centric navigation.<br>
 <br>
-In order to realize this, the design must be:
+In order to realize this, the design must be :
 - Balanced
 - Accessible
 - Responsive
@@ -32,14 +32,8 @@ This particular sprint focuses on experiential learning, working collaboratively
 <br>
 **Simple grid frameworks** will be used to maintain the theme of simplicity.<br>
 <br>
-Included considerations for improved performance are:<br>
-
+Included considerations for improved performance are :<br>
 1.  Limited images (1-2 only)
 2.  Limited type fonts (1-2) maximum
 3.  Minimal navigation options
-
 <br>
-
-
-
-

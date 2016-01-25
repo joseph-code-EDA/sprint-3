@@ -15,6 +15,7 @@ Finally, this can also serve as a portfolio for any potential tech company seeki
 ## 3. Interactive Experiences
 Simplicity will be at the core of this website.<br>
 Aimed at a mobile device market - priority will be around touch-centric navigation.<br>
+<br>
 In order to realize this, the design must be:
 - Balanced
 - Accessible
@@ -24,9 +25,10 @@ In order to realize this, the design must be:
 ## 4. Building Utopia
 >*Process over product*
 
-This particular sprint focuses on experiential learning, working collaboratively & communication rather than producing a fully functional, aesthetically pleasing 'perfect' website with all the bells & whistles.<br>
+This particular sprint focuses on experiential learning, working collaboratively & communication rather than producing a fully functional, aesthetically pleasing, 'perfect' website with all the bells & whistles.<br>
 <br>
 **Simple grid frameworks** will be used to maintain the theme of simplicity.<br>
+<br>
 Included considerations for improved performance are:<br>
 
 1.  Limited images (1-2 only)

@@ -3,15 +3,13 @@
 <figure>
   <img src="http://iconbug.com/data/5b/512/ca6b4131b00fc172b9095dedc6c6a3ec.png"><br>
   <figcaption>
-    <p>Enjoyable Frustration</p>
+    <p>"What I feel and look like during sprint-3"</p>
   </figcaption>
 </figure>
 
->Me he whare pūngāwerewere<br>
->*As intricate as a spiders web*<br>  
+## So...what happened?
+Can I start of by saying - what a massive, no **###MASSIVE** challenge this was for me...(still catching my breath...)<br>
 
-## 1. Purpose
-[This site](http://joseph-code-eda.github.io) showcases the evolution of applied web development/design skills learned through [Dev Academy](http://devacademy.co.nz).
 
 ## 2. Target Audience
 This website is primarily a compendium of sprints during Phase-0 of the EDA journey.<br>

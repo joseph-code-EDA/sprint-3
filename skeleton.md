@@ -3,7 +3,7 @@
 <figure>
   <img src="http://iconbug.com/data/5b/512/ca6b4131b00fc172b9095dedc6c6a3ec.png"><br>
   <figcaption>
-    <p>"What I feel and look like after playing with skeleton..."</p>
+    <p>"What I feel and look like after playing with bones..."</p>
   </figcaption>
 </figure>
 

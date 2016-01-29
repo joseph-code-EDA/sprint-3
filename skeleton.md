@@ -8,7 +8,7 @@
 </figure>
 
 ## So...what happened?
-Can I start of by saying - what a massive, **MASSIVE** challenge this was for me...<br>
+Can I start off by saying - what a massive, **MASSIVE** challenge this was for me...<br>
 <br>
 What I discovered when resizing the web browser is that the ***Skeleton CSS* makes any HTML responsive** - meaning if I shrink the browser size, the text, images and content shrink accordingly and vice versa.<br>
 <br>
